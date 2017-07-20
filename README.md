@@ -29,6 +29,9 @@
 Особенности:
 * Работа с анимацией
 
+## [Kapous](http://kapous.ru/)
+**Front-end**
+
 ## Выступления/статьи/общественная деятельность
 * [Выступление на PiterCSS 11 с темой "Относительный CSS"](https://www.youtube.com/watch?v=xdhPX2llDeg)
 * [Хабр: Простая валидация формы без JS](https://habrahabr.ru/post/332804/)
