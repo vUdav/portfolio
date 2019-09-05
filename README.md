@@ -37,6 +37,14 @@
 ## [Kapous](http://kapous.ru/)
 **Front-end**
 
+## Мобильное приложение Kapous
+**Front-end**
+
+[<img src="https://linkmaker.itunes.apple.com/assets/shared/badges/ru-ru/appstore-lrg-efcb5a04c3f3ab07b704da708819a614cca5ae1debda359f9f9841d6fed5de96.svg">](https://apps.apple.com/ru/app/kapous/id1475777360?mt=8)
+
+Особенности:
+* React Native
+
 ## Выступления/статьи/общественная деятельность
 * [Выступление на PiterCSS 11 с темой "Относительный CSS"](https://www.youtube.com/watch?v=xdhPX2llDeg)
 ### Хабрахабар
