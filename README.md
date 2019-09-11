@@ -40,7 +40,8 @@
 ## Мобильное приложение Kapous
 **Front-end**
 
-[<img src="https://linkmaker.itunes.apple.com/assets/shared/badges/ru-ru/appstore-lrg-efcb5a04c3f3ab07b704da708819a614cca5ae1debda359f9f9841d6fed5de96.svg">](https://apps.apple.com/ru/app/kapous/id1475777360?mt=8)
+[<img height="50" src="https://linkmaker.itunes.apple.com/assets/shared/badges/ru-ru/appstore-lrg-efcb5a04c3f3ab07b704da708819a614cca5ae1debda359f9f9841d6fed5de96.svg">](https://apps.apple.com/ru/app/kapous/id1475777360?mt=8)
+[<img height="50" src="https://developer.android.com/images/brand/en_app_rgb_wo_60.png">](https://play.google.com/store/apps/details?id=com.kapous&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
 
 Особенности:
 * React Native
